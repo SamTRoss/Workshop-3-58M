@@ -1,0 +1,19 @@
+---
+title: "Workshop 3 58M"
+author: "Sam Ross"
+date: "04/11/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+	echo = FALSE,
+	fig.retina = 3,
+	message = FALSE,
+	warning = FALSE
+)
+```
+
+'''{r packages}
+library(tidyverse)
+'''
